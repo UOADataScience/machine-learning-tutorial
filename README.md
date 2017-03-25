@@ -9,8 +9,7 @@ The difference between statistics and machine learning is that
 Linear regression is the most basic form of learning from data. Most of you who have taken statistic or math papers should have came across this topic frequently. 
 
 Essentially, the idea behind linear regression is that a "line of best fit" is drawn for the collected data, with the main objective of finding a relationship between 2 or more sets of data.
-![alt text][logo]
-[logo]: https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/regression.png "Linear Regression"
+![alt text](https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/regression.png "Linear Regression")
 
 Given a training set, a learning algorithm will generate weights based on collected data. Once the solution has converged, any new input will be passed through the calculated weights and a prediction will be generated.
 
