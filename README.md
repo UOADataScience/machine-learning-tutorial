@@ -38,6 +38,13 @@ Neural networks are typically drawn as such
 <img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/neural_network.png" width="400">
 </p>
 
+where each node represents a function, and each edge represents a weight. For this diagram, 
+  - Inputs are represented by the green nodes
+  - Each input node is multipled by 5 different weights
+  - These outputs are then summed at each hidden layer node, and mapped to another output
+  - Again, these outputs, represented by the 5 edges on the right of the hidden layer, are multipled by different weights
+  - The output layer then sums these values and then map them to an output 
+
 ## Unsupervised Learning
 ### K-Means Clustering Algorithm
 ### Principal Component Analysis
