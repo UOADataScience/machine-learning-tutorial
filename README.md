@@ -35,7 +35,7 @@ For classification purposes, unlike linear regression, the output for logistic r
 
 Neural networks are typically drawn as such
 <p align="center">
-<img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/neural_network.png" width="200">
+<img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/neural_network.png" width="400">
 </p>
 
 ## Unsupervised Learning
