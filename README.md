@@ -16,9 +16,19 @@ Given a training set, a learning algorithm will generate weights based on collec
 <img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/regression_inout.png" width="500">
 <!-- ![alt text](https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/regression_inout.png "Mapping from Input to Output") -->
 
-More details are avaiable on the [wiki](https://en.wikipedia.org/wiki/Linear_regression) page.
+More details are available on the [wiki](https://en.wikipedia.org/wiki/Linear_regression) page.
 
 ### Classification and Logistic Regression
+For classification purposes, e.g. telling whether a picture contains a cat, the output will only take on a small amount of discrete values
+$$\begin{aligned}
+y
+\begin{cases}
+1\;\;\;\text{ spam email}  \\
+0\;\;\;\text{ otherwise}
+\end{cases}
+\end{aligned}$$  
+
+
 ### Neural Network
 ## Unsupervised Learning
 ### K-Means Clustering Algorithm
