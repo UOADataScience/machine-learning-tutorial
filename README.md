@@ -20,7 +20,7 @@ More details are available on the [wiki](https://en.wikipedia.org/wiki/Linear_re
 
 ### Classification and Logistic Regression
 For classification purposes, e.g. telling whether a picture contains a cat, the output will only take on a small amount of discrete values. An example,
-<img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/classification.png" width="500">
+<img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/classification.png" width="100">
 
 
 ### Neural Network
