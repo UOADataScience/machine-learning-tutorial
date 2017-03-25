@@ -19,14 +19,8 @@ Given a training set, a learning algorithm will generate weights based on collec
 More details are available on the [wiki](https://en.wikipedia.org/wiki/Linear_regression) page.
 
 ### Classification and Logistic Regression
-For classification purposes, e.g. telling whether a picture contains a cat, the output will only take on a small amount of discrete values
-$$\begin{aligned}
-y
-\begin{cases}
-1\;\;\;\text{ spam email}  \\
-0\;\;\;\text{ otherwise}
-\end{cases}
-\end{aligned}$$  
+For classification purposes, e.g. telling whether a picture contains a cat, the output will only take on a small amount of discrete values. An example,
+<img src="https://github.com/UOADataScience/machine-learning-tutorial/blob/master/images/classifcation.png" width="500">
 
 
 ### Neural Network
