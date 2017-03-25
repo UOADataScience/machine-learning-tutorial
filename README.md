@@ -1,7 +1,7 @@
 # Introduction
 ## What is Machine Learning?
 The difference between statistics and machine learning is that 
-  - Statistics' aim is to explain the relationship, whereas
+  - Statistics' goal is to explain the relationship between different data, whereas
   - Machine learning aims to create a prediction based on collected data
 
 ## Supervised Learning 
@@ -43,7 +43,7 @@ where each node represents a function, and each edge represents a weight. For th
   - Each input node is multipled by 5 different weights
   - These outputs are then summed at each hidden layer node, and mapped to another output
   - Again, these outputs, represented by the 5 edges on the right of the hidden layer, are multipled by different weights
-  - The output layer then sums these values and then map them to an output 
+  - The output layer then sums these values and then maps them to a single output 
 
 ## Unsupervised Learning
 ### K-Means Clustering Algorithm
